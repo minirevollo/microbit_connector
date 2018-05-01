@@ -20,6 +20,12 @@ mit SketchUp im [erfindergarden](http://www.erfindergarden.de), das FabLab in M�
 ## Produktion ##
 Der connector wird **3D-gedruckt**. Da die Struktur sehr fein ist benötigt man auch eine feine, maximal **0,25 mm Düse**. Support ist nicht nötig. **Layerhöhe 0,12 mm**. 
 
-Die Litzen wählt man am besten in unterschiedlichen Farben. Für GND schwarz und für VCC rot. **Um beim Einlegen der Litzen den connector nicht zu beschädigen muss dieser auf den micro:bit aufgesetzt werden.** Die Litzenenden werden auf ca. 10 mm abisoliert und in das Unterteil sorgfälltig eingelegt. Dabei darauf achten, dass die Litzenenden hinten nicht zu weit überstehen und sich dadurch berühren. Der letzte Millimeter muss nach unten abgeknicht werden um ein Herausziehen zu vermeiden. Dann das Oberteil auflegen und festklicken. 
+## Montage ##
 
-Mit Hilfe eines **Multimeters** kann zwischen den Litzenenden und den Kontrollöchern der Kontakt überprüft werden.
+Das Verkabeln ist leider etwas heikel, kann aber funktionieren.
+
+Die Litzen wählt man am besten in unterschiedlichen Farben. Für GND schwarz und für VCC rot. **Um beim Einlegen der Litzen den connector nicht zu beschädigen muss dieser auf den micro:bit aufgesetzt werden.** Die Litzenenden werden auf ca. 8 mm abisoliert und in das Unterteil sorgfälltig eingelegt. 2 mm der Isolierung sollen noch in das Gehäuse eingeführt werden. Dabei darauf achten, dass die Litzenenden hinten nicht zu weit überstehen und sich dadurch berühren. Der letzte Millimeter muss nach unten abgeknicht werden um ein Herausziehen zu vermeiden. Dann das Oberteil auflegen und festklicken. 
+
+<img src="IMG/microbit_adapter_v4_8.jpg" width = "49%" />
+
+Mit Hilfe eines **Multimeters** kann zwischen den Litzenenden und den Kontrollöchern der Kontakt überprüft werden. Auch die nebeneinander liegenden Litzen auf Kontaktfreiheit überprüfen.
